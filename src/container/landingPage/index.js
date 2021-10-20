@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, Box, Flex, Spacer } from "@chakra-ui/react"
+import { Container, Box } from "@chakra-ui/react"
 import style from './style.module.css';
 
 function Home() {
