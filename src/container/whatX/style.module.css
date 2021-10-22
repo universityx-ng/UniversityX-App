@@ -1,0 +1,20 @@
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem 5rem;
+}                                                                                                         
+
+.ctx {
+    text-align: center;
+    color: #D8189E;
+    font-weight: bold;
+font-size: 45px;
+line-height: 53px;
+margin: 3rem 0;
+    /* background: linear-gradient(90deg, #D8189E -14.81%, #732ED9 108.99%); */
+}
+.p {
+    margin: 2rem;
+    text-align:center;
+}
+

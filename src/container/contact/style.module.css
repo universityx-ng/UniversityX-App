@@ -1,0 +1,9 @@
+.ctx {
+    text-align: center;
+    color: #d8189e;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 53px;
+    margin: 3rem 0;
+    /* background: linear-gradient(90deg, #D8189E -14.81%, #732ED9 108.99%); */
+  }
