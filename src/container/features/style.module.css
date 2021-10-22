@@ -1,0 +1,47 @@
+.ctx {
+  text-align: center;
+  color: #d8189e;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 53px;
+  margin: 3rem 0;
+  /* background: linear-gradient(90deg, #D8189E -14.81%, #732ED9 108.99%); */
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 3.4rem;
+    margin: .4rem;
+}
+
+.parentF {
+  padding: .3rem;
+  background: linear-gradient(180deg, #d8189e 0%, #732ed9 100%);
+  border-radius: 10px;
+}
+
+.childF {
+    padding: 1.5rem;
+    background: #FFFFFF;
+border-radius: 10px;;
+}
+
+.childimg {
+    width: 76px;
+    height: 96px;
+    text-align: center;
+    padding: 1.2rem 0;
+    position: relative;    
+    left: 25%;
+}
+
+.childp {
+    font-weight: bold;
+    text-align: center;
+    padding: 1.2rem 0;
+}
+.childdesc {
+    text-align: center;
+    padding: 1.2rem 0;
+}
